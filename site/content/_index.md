@@ -1,21 +1,26 @@
 ---
 title: 'Formation au numérique, à la bureautique et à la programmation Java'
 subtitle: Le B.A. BA de l'informatique...
-image: img/sackcloth-1280539.jpg
+image: img/laptop-2838917_1920.jpg
 blurb:
-  heading: Pourquoi Formazertyx?
+  heading: Pourquoi Formazertyx ?
   text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Formazertyx est la formation sur mesure adaptée pour toute personne qui
+    souhaite maîtriser les outils numériques. Face à l’évolution de la société
+    et des technologies, nous souhaitons y inclure tout un chacun dans le cadre
+    d'une insertion ou une reconversion professionnelle, ne serait-ce que pour
+    la dématérialisation des démarches administratives, pour pouvoir travailler
+    ou se former à distance - ou dans le cadre personnel, pour rester en contact
+    avec les personnes en mobilité à l’étranger. Notre ambition est d'aider
+    toute personne motivée à être autonome et à l'aise dans ce domaine en
+    perpétuelle évolution !
 intro:
-  heading: What we offer
+  heading: Nous vous proposons...
   text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    Formazertyx propose des formations à la carte selon vos questions et vos
+    envies, en bureautique du niveau découverte à expert, en programmation Java
+    pour débutants. Et aussi, nous voulons vous aider au quotidien : paramétrage
+    de votre ordinateur ou de votre smartphone, e-mails, démarches en ligne...
 products:
   - image: img/illustrations-coffee.svg
     text: >-
@@ -31,10 +36,12 @@ products:
       own beans or just bought your first french press, you’ll find a gadget to
       fall in love with in our shop.
 values:
-  heading: Our values
+  heading: Nos valeurs
   text: >-
-    Coffee is an amazing part of human culture but it has a dark side too – one
-    of colonialism and mindless abuse of natural resources and human lives. We
-    want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+    L'informatique a ses avantages mais également sa face sombre. Nous accordons
+    de l'importance à vous sensibiliser sur la protection de vos données
+    personnelles et aux tentatives de piratage de vos comptes, à l'utilisation
+    de logiciels libres et gratuits. L'humain est au cœur de la formation, nous
+    favorisons la richesse des différences dans les partages, l'autonomisation
+    dans un accompagnement adapté pour chacun.
 ---
