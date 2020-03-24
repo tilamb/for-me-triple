@@ -24,7 +24,7 @@ intro:
     découverte à expert, ou en programmation Java pour débutants. Nous voulons
     vous aider au quotidien pour le paramétrage de votre ordinateur ou de votre
     smartphone, e-mails, démarches en ligne.
-products:
+formations:
   - image: img/document-98484_1280.png
     text: Formation Traitement de texte
   - image: img/spreadsheet-98491_1280.png
