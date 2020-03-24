@@ -89,7 +89,7 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: '?'
-type: products
+type: formations
 image: /img/products-jumbotron.jpg
 description: >-
   Formazertyx est la formation qui s'adapte à tous. Que vous soyez novice à
