@@ -22,8 +22,8 @@ collections: # A list of collections the CMS should be able to edit
     label: "Pages"
     files:
       - file: "site/content/_index.md"
-        label: "Home Page"
-        name: "home"
+        label: "Accueil"
+        name: "accueil"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Subtitle, name: subtitle, widget: string}
