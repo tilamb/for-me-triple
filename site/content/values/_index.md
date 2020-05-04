@@ -20,11 +20,11 @@ values:
     imageUrl: /img/about-single-origin.jpg
   - heading: Protection de votre vie privée
     text: >
-      Puisque vos données vous appartiennent, nous vous accompagnons à la
-      découverte des données que vous confiez volontairement ou non aux
-      entreprises. Il nous importe de vous accompagner à l'utilisation de
-      logiciels libres - qui ne réutilisent pas vos données, de moteurs de
-      recherche et autres paramétrages qui respectent vos données. Puisque la
-      liberté peut être une question de choix.
+      Puisque vos données vous appartiennent, nous vous invitons à découvrir
+      comment choisir les données que vous confiez aux entreprises. Pour cela,
+      nous promouvons l'utilisation de logiciels libres (et gratuits) - qui ne
+      réutilisent pas vos données, de moteurs de recherche et autres
+      paramétrages qui respectent vos données. Puisque la liberté peut être une
+      question de choix.
     imageUrl: /img/about-sustainable-farming.jpg
 ---
