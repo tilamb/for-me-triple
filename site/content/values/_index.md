@@ -10,7 +10,7 @@ values:
       actuelles. Elle facilitera votre quotidien : avancer sur votre projet
       professionnel, effectuer vos démarches administratives, rechercher du
       travail... Ouvrez des portes à de nouvelles opportunités !
-    imageUrl: /img/about-shade-grown.jpg
+    imageUrl: img/valeurs-humain.jpg
   - heading: 'Partages, autonomie et confiance en soi'
     text: >
       Nous accompagnons à la réussite de votre reconversion numérique, par notre
