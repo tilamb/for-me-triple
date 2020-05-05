@@ -9,7 +9,7 @@ values:
       l'isolement et d'inclure tout un chacun face aux transformations
       actuelles. Elle facilitera votre quotidien : avancer sur votre projet
       professionnel, effectuer vos démarches administratives, rechercher du
-      travail... Ouvrez des portes à de nouvelles opportunités !
+      travail...
     imageUrl: img/valeurs-humain.jpg
   - heading: 'Partage, autonomie et confiance en soi'
     text: >
