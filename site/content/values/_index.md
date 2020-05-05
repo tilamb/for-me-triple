@@ -11,7 +11,7 @@ values:
       professionnel, effectuer vos démarches administratives, rechercher du
       travail... Ouvrez des portes à de nouvelles opportunités !
     imageUrl: img/valeurs-humain.jpg
-  - heading: 'Partages, autonomie et confiance en soi'
+  - heading: 'Partage, autonomie et confiance en soi'
     text: >
       Nous accompagnons à la réussite de votre reconversion numérique, par notre
       expérience avec différents publics, la pratique, tout en s'adaptant à
