@@ -1,6 +1,6 @@
 ---
 title: Valeurs
-image: /img/about-jumbotron.jpg
+image: img/valeurs.jpg
 values:
   - heading: L'humain au coeur
     text: >-
@@ -10,14 +10,14 @@ values:
       actuelles. Elle facilitera votre quotidien : avancer sur votre projet
       professionnel, effectuer vos démarches administratives, rechercher du
       travail... Ouvrez des portes à de nouvelles opportunités !
-    imageUrl: img/training-3828299_1920.jpg
+    imageUrl: img/valeurs-humain.jpg
   - heading: 'Partages, autonomie et confiance en soi'
     text: >
       Nous accompagnons à la réussite de votre reconversion numérique, par notre
       expérience avec différents publics, la pratique, tout en s'adaptant à
       votre vécu. Vous prendrez confiance en vous, devant l'outil et en général,
       pour enfin voler de vos propres ailes !
-    imageUrl: /img/about-single-origin.jpg
+    imageUrl: img/valeurs-autonomie.jpg
   - heading: Protection de votre vie privée
     text: >
       Puisque vos données vous appartiennent, nous vous invitons à découvrir
@@ -26,5 +26,5 @@ values:
       réutilisent pas vos données, de moteurs de recherche et autres
       paramétrages qui respectent vos données. Puisque la liberté peut être une
       question de choix.
-    imageUrl: /img/about-sustainable-farming.jpg
+    imageUrl: img/valeurs-donnees.jpg
 ---
