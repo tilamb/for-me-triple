@@ -22,20 +22,19 @@ intro:
     l'utilisation des nouvelles technologies ou souhaitiez approfondir vos
     compétences.
 main:
-  heading: Great coffee with no compromises
+  heading: Se former et être accompagné
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Qui souhaite acquérir de nouvelles compétences nécessite un cadre sécurisé
+    pour s'y familiariser. Bienveillance, valorisation et collaboration sont mis
+    en œuvre en vue d'atteindre les objectifs fixés.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: Patience
     image: /img/products-grid3.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: Bienveillance
     image: /img/products-grid2.jpg
   image3:
-    alt: Coffee beans
+    alt: Collaboration
     image: /img/products-grid1.jpg
 testimonials: []
 full_image: /img/products-full-width.jpg
