@@ -7,7 +7,7 @@ contact_entries:
   - heading: Horaires
     text: |-
       du lundi au vendredi – de 9h à 17h 
-      Fermé le samedi - dimanche
+      Fermé le samedi & dimanche
 ---
 <h3 class="f4 b lh-title mb2">Comment réserver?</h3>
 
