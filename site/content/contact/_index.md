@@ -1,16 +1,16 @@
 ---
 title: Contact
-logo: img/logo.png
+logo: img/logo.svg
 contact_entries:
-  - heading: Secteurs de prestation
-    text: |-
-      Chelles - Noisy-le-Grand - 
-      Torcy Paris Est et alentours
+  - heading: Lieux de prestation
+    text: >-
+      Chelles, Marne-la-Vallée, Mitry-Mory, Noisy-le-Grand, Paris Est et
+      environs
   - heading: Horaires
     text: |-
-      du Lundi au Vendredi – de 9h à 17h 
-      Fermé le samedi - dimanche
+      Lundi au vendredi 9h – 17h 
+      Fermé samedi & dimanche
 ---
-<h3 class="f4 b lh-title mb2">Comment réserver …?</h3>
+<h3 class="f4 b lh-title mb2">Comment réserver?</h3>
 
-Contactez-nous via le fomulaire ci-dessous pour toute question, que ce soit pour une formation aux particuliers ou en entreprise !
+Nous sommes à l'écoute de vos besoins et de vos projets, que ce soit pour une formation aux particuliers ou en groupe.
