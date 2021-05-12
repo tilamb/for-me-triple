@@ -3,7 +3,7 @@ title: Contact
 logo: img/logo.svg
 contact_entries:
   - heading: Lieux de prestation
-    text: 'Nord et Est de la Seine-et-Marne, Paris Gare de l''Est et environs'
+    text: Nord et Est de la Seine-et-Marne Paris Gare de l'Est et environs
   - heading: Horaires
     text: |-
       du lundi au vendredi – de 9h à 17h 
