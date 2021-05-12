@@ -29,7 +29,7 @@ formations:
     text: Formation Traitement de texte
   - image: img/spreadsheet-98491_1280.png
     text: Formation Tableur
-values:
+valeurs:
   heading: Nos valeurs
   text: >-
     L'informatique a ses avantages mais également sa face sombre. Nous accordons
