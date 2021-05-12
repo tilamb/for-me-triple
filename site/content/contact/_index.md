@@ -13,4 +13,4 @@ contact_entries:
 ---
 <h3 class="f4 b lh-title mb2">Comment réserver?</h3>
 
-Nous sommes à l'écoute de vos besoins et de vos projets, que ce soit pour une formation aux particuliers ou en groupe!
+Nous sommes à l'écoute de vos besoins et de vos projets, que ce soit pour une formation aux particuliers ou en groupe.
