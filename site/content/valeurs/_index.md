@@ -1,7 +1,7 @@
 ---
 title: Valeurs
 image: img/valeurs.jpg
-values:
+valeurs:
   - heading: L'humain au coeur
     text: >-
       Nous accordons de l'importance au relationnel, en offrant un service de
